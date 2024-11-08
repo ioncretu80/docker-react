@@ -9,6 +9,10 @@ function App() {
         <p>
           learn react
         </p>
+        <p>
+          learn react
+        </p>
+
        
       </header>
     </div>
