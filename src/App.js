@@ -8,12 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           learn react
-        </p>
-        <p>
-          learn react
-        </p>
-
-       
+        </p>      
       </header>
     </div>
   );
